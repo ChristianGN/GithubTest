@@ -73,4 +73,5 @@ public class binaryTranslation{
 		System.out.println("");
 		
 	}
+	//change
 }
